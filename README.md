@@ -3,6 +3,7 @@
 > status do projeto;em desenvolvimento
 
 para rodar esse projeto na sua maquina,por favor digitar:
-...
-npm install react
-...
+
+```
+node app.js
+```
